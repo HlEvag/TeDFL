@@ -9,7 +9,10 @@ Some of our reference projects are listed below, and we are very grateful for th
 * Gia-CFSL: [Graph Information Aggregation Cross-Domain Few-Shot Learning for Hyperspectral Image Classification, TNNLS, 2022.](https://github.com/YuxiangZhang-BIT/IEEE_TNNLS_Gia-CFSL)
 * DCFSL: [Deep Cross-domain Few-shot Learning for Hyperspectral Image Classification, TGRS, 2022.](https://github.com/Li-ZK/DCFSL-2021)
 * CMFSL: [Few-shot Learning with Class-Covariance Metric for Hyperspectral Image Classification, TIP, 2022.](https://github.com/B-Xi/TIP_2022_CMFSL)
-
+* HFSL: [Heterogeneous Few-shot Learning for Hyperspectral Image Classification, TGRSL, 2022](https://github.com/Li-ZK/HFSL)
+* RCAPDA: [Few-shot learning using residual channel attention and prototype domain adaptation for hyperspectral image classification, TGRSL, 2023](https://github.com/XtaoS/protypical-fsl)
+* ADAFSL: [Adaptive Domain-Adversarial Few-Shot Learning for Cross-Domain Hyperspectral Image Classification, TGRS, 2023](https://github.com/JieW-ww/ADAFSL)
+* STBDIP: [Multi-level relation learning for cross-domain few-shot hyperspectral image classification, Applied intelligence, 2024](https://github.com/HENULWY/STBDIP)
 # Requirements
 CUDA Version = 11.7
 
